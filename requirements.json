@@ -1,0 +1,3932 @@
+{
+ "version": "2026.11.12",
+ "lastVerified": "2026-11-11",
+ "source": "FSMB Board-by-Board CME Overview (Aug 2026, re-checked Nov 2026) and each board's CME page; all 24 ABMS member boards, 16 AOA certifying boards, NCCPA, AANPCB, ANCC, NBCRNA, AHA, DEA",
+ "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+ "templates": [
+  {
+   "id": "AL",
+   "kind": "stateLicense",
+   "state": "AL",
+   "degree": "both",
+   "name": "Alabama Board of Medical Examiners",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 25,
+   "cycleMonths": 12,
+   "category1Hours": 25,
+   "summary": "25 hrs/yr, all AMA Category 1.",
+   "topics": [
+    {
+     "title": "Controlled substance prescribing (2 hrs every 2 yrs)",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": "ACSC holders",
+     "oneTime": false,
+     "id": "AL-1"
+    },
+    {
+     "title": "Professional boundaries course",
+     "tag": "ethics",
+     "hours": 0,
+     "condition": null,
+     "oneTime": true,
+     "id": "AL-2"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.albme.gov",
+   "cmeURL": "https://www.albme.gov/resources/licensees/continuing-medical-education/licensure-cme-requirement"
+  },
+  {
+   "id": "AK",
+   "kind": "stateLicense",
+   "state": "AK",
+   "degree": "both",
+   "name": "Alaska State Medical Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "50 hrs/2 yrs, AMA or AOA Category 1 or 2.",
+   "topics": [
+    {
+     "title": "Pain management and opioid use/addiction",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": "DEA / controlled substance prescribers",
+     "oneTime": false,
+     "id": "AK-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/StateMedicalBoard.aspx",
+   "cmeURL": "https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/StateMedicalBoard/FrequentlyAskedQuestions"
+  },
+  {
+   "id": "AZ-M",
+   "kind": "stateLicense",
+   "state": "AZ",
+   "degree": "MD",
+   "name": "Arizona Medical Board",
+   "professions": [
+    "MD"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "40 hrs/2 yrs.",
+   "topics": [
+    {
+     "title": "Opioid, substance use disorder, or addiction",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": "DEA / controlled substance prescribers",
+     "oneTime": false,
+     "id": "AZ-M-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.azmd.gov",
+   "cmeURL": "https://apps.azsos.gov/public_services/Title_04/4-16.pdf"
+  },
+  {
+   "id": "AZ-O",
+   "kind": "stateLicense",
+   "state": "AZ",
+   "degree": "DO",
+   "name": "Arizona Board of Osteopathic Examiners",
+   "professions": [
+    "DO"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 24,
+   "summary": "40 hrs/2 yrs; 24 AOA Category 1-A (max 16 AMA Category 1 per year).",
+   "topics": [
+    {
+     "title": "Opioid, substance use disorder, or addiction",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": "DEA / controlled substance prescribers",
+     "oneTime": false,
+     "id": "AZ-O-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.azdo.gov",
+   "cmeURL": "https://azdo.gov/licensure-compact/do-renewal-application"
+  },
+  {
+   "id": "AR",
+   "kind": "stateLicense",
+   "state": "AR",
+   "degree": "both",
+   "name": "Arkansas State Medical Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 20,
+   "cycleMonths": 12,
+   "category1Hours": 10,
+   "summary": "20 hrs/yr; 50% in primary practice area, Category 1.",
+   "topics": [
+    {
+     "title": "Opioid and/or benzodiazepine prescribing",
+     "tag": "prescribing",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "AR-1"
+    },
+    {
+     "title": "Prescribing education within first 2 years",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": "New licensees",
+     "oneTime": true,
+     "id": "AR-2"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.armedicalboard.org",
+   "cmeURL": "https://www.healthy.arkansas.gov/programs-services/topics/arkansas-state-medical-board"
+  },
+  {
+   "id": "CA-M",
+   "kind": "stateLicense",
+   "state": "CA",
+   "degree": "MD",
+   "name": "Medical Board of California",
+   "professions": [
+    "MD"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 50,
+   "summary": "50 hrs/2 yrs, all Category 1 (25 hrs if licensed under 13 months). Internists/family physicians with >25% of patients 65+: 20% in geriatric medicine.",
+   "topics": [
+    {
+     "title": "Pain management and terminal illness care (12 units)",
+     "tag": "endOfLife",
+     "hours": 12,
+     "condition": null,
+     "oneTime": true,
+     "id": "CA-M-1"
+    },
+    {
+     "title": "Geriatric medicine (20% of hours)",
+     "tag": "geriatrics",
+     "hours": 10,
+     "condition": "Internists/FPs with >25% patients 65+",
+     "oneTime": false,
+     "id": "CA-M-2"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.mbc.ca.gov",
+   "cmeURL": "https://www.mbc.ca.gov/Licensees/Continuing_Education"
+  },
+  {
+   "id": "CA-O",
+   "kind": "stateLicense",
+   "state": "CA",
+   "degree": "DO",
+   "name": "Osteopathic Medical Board of California",
+   "professions": [
+    "DO"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 20,
+   "summary": "50 hrs/2 yrs; 20 hrs AOA Category 1A/1B.",
+   "topics": [
+    {
+     "title": "Pain management and terminal illness care (12 units)",
+     "tag": "endOfLife",
+     "hours": 12,
+     "condition": null,
+     "oneTime": true,
+     "id": "CA-O-1"
+    },
+    {
+     "title": "Schedule II addiction risk course",
+     "tag": "prescribing",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "CA-O-2"
+    },
+    {
+     "title": "Geriatric medicine (20% of hours)",
+     "tag": "geriatrics",
+     "hours": 10,
+     "condition": "Internists/FPs with >25% patients 65+",
+     "oneTime": false,
+     "id": "CA-O-3"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.ombc.ca.gov",
+   "cmeURL": "https://www.ombc.ca.gov/licensees/cme"
+  },
+  {
+   "id": "CO",
+   "kind": "stateLicense",
+   "state": "CO",
+   "degree": "both",
+   "name": "Colorado Medical Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 30,
+   "cycleMonths": 24,
+   "category1Hours": 30,
+   "summary": "30 hrs/24 months of accredited Category 1 CME (required from 2026; Rule 1.33). Board certification CME counts.",
+   "topics": [
+    {
+     "title": "Opioid prescribing, SUD recognition/referral, and PDMP use",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": "Exemptions apply",
+     "oneTime": false,
+     "id": "CO-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://dpo.colorado.gov/Medical",
+   "cmeURL": "https://dpo.colorado.gov/Medical/CE"
+  },
+  {
+   "id": "CT",
+   "kind": "stateLicense",
+   "state": "CT",
+   "degree": "both",
+   "name": "Connecticut Medical Examining Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "50 contact hrs/2 yrs. Topic hours due at first renewal and every 6 years.",
+   "topics": [
+    {
+     "title": "Infectious disease (every 6 yrs)",
+     "tag": "infectionControl",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "CT-1"
+    },
+    {
+     "title": "Risk management (every 6 yrs)",
+     "tag": "riskManagement",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "CT-2"
+    },
+    {
+     "title": "Behavioral health (every 6 yrs)",
+     "tag": "suicidePrevention",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "CT-3"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://portal.ct.gov/dph/practitioner-licensing--investigations/physician/physician-licensure",
+   "cmeURL": "https://portal.ct.gov/dph/practitioner-licensing--investigations/physician/continuing-medical-education"
+  },
+  {
+   "id": "DE",
+   "kind": "stateLicense",
+   "state": "DE",
+   "degree": "both",
+   "name": "Delaware Board of Medical Licensure and Discipline",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "40 hrs/2 yrs, all AMA/AOA Category 1. Every renewal also requires Delaware's 1-hour mandatory reporting training (child abuse and domestic violence).",
+   "topics": [
+    {
+     "title": "Controlled substance prescribing or chronic pain",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "DE-1"
+    },
+    {
+     "title": "Mandatory reporting training: child abuse, exploitation and domestic violence (Delaware CPAC course)",
+     "tag": "childAbuse",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "DE-2"
+    },
+    {
+     "title": "Delaware controlled substance course (safe prescribing and distribution)",
+     "tag": "prescribing",
+     "hours": 1,
+     "condition": "Delaware CSR applicants",
+     "oneTime": true,
+     "id": "DE-3"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://dpr.delaware.gov/boards/medicalpractice/",
+   "cmeURL": "https://regulations.delaware.gov/AdminCode/title24/1700.shtml"
+  },
+  {
+   "id": "DC",
+   "kind": "stateLicense",
+   "state": "DC",
+   "degree": "both",
+   "name": "DC Board of Medicine",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 50,
+   "summary": "50 hrs/2 yrs, all Category 1.",
+   "topics": [
+    {
+     "title": "DOH public health priority topics (10%)",
+     "tag": "publicHealth",
+     "hours": 5,
+     "condition": null,
+     "oneTime": false,
+     "id": "DC-1"
+    },
+    {
+     "title": "LGBTQ cultural competency",
+     "tag": "culturalCompetency",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "DC-2"
+    },
+    {
+     "title": "Pharmacology course",
+     "tag": "prescribing",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "DC-3"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://dchealth.dc.gov/bomed",
+   "cmeURL": "https://dchealth.dc.gov/node/120612"
+  },
+  {
+   "id": "FL-M",
+   "kind": "stateLicense",
+   "state": "FL",
+   "degree": "MD",
+   "name": "Florida Board of Medicine",
+   "professions": [
+    "MD"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "38 hrs/2 yrs plus a separate 2-hr medical errors course. Reported through CE Broker.",
+   "topics": [
+    {
+     "title": "Medical error prevention",
+     "tag": "medicalErrors",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "FL-M-1"
+    },
+    {
+     "title": "HIV/AIDS",
+     "tag": "hivAids",
+     "hours": 1,
+     "condition": "First renewal",
+     "oneTime": true,
+     "id": "FL-M-2"
+    },
+    {
+     "title": "Domestic violence (every 3rd renewal)",
+     "tag": "domesticViolence",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "FL-M-3"
+    },
+    {
+     "title": "Controlled substance prescribing (incl. sickle cell pain)",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": "DEA / controlled substance prescribers",
+     "oneTime": false,
+     "id": "FL-M-4"
+    },
+    {
+     "title": "Human trafficking",
+     "tag": "humanTrafficking",
+     "hours": 1,
+     "condition": null,
+     "oneTime": true,
+     "id": "FL-M-5"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://flboardofmedicine.gov",
+   "cmeURL": "https://flboardofmedicine.gov/renewals/medical-doctor-unrestricted/#tab-cme"
+  },
+  {
+   "id": "FL-O",
+   "kind": "stateLicense",
+   "state": "FL",
+   "degree": "DO",
+   "name": "Florida Board of Osteopathic Medicine",
+   "professions": [
+    "DO"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 20,
+   "summary": "40 hrs/2 yrs incl. 20 hrs AOA Category 1-A general CE. Reported through CE Broker.",
+   "topics": [
+    {
+     "title": "Risk management",
+     "tag": "riskManagement",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "FL-O-1"
+    },
+    {
+     "title": "Florida laws and rules",
+     "tag": "ethics",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "FL-O-2"
+    },
+    {
+     "title": "Controlled substances",
+     "tag": "prescribing",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "FL-O-3"
+    },
+    {
+     "title": "Medical error prevention",
+     "tag": "medicalErrors",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "FL-O-4"
+    },
+    {
+     "title": "HIV/AIDS",
+     "tag": "hivAids",
+     "hours": 1,
+     "condition": "First renewal",
+     "oneTime": true,
+     "id": "FL-O-5"
+    },
+    {
+     "title": "Domestic violence (every 3rd renewal)",
+     "tag": "domesticViolence",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "FL-O-6"
+    },
+    {
+     "title": "Controlled substance prescribing, AOA 1-A (incl. sickle cell pain)",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": "DEA / controlled substance prescribers",
+     "oneTime": false,
+     "id": "FL-O-7"
+    },
+    {
+     "title": "Human trafficking",
+     "tag": "humanTrafficking",
+     "hours": 1,
+     "condition": null,
+     "oneTime": true,
+     "id": "FL-O-8"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://floridasosteopathicmedicine.gov",
+   "cmeURL": "https://floridasosteopathicmedicine.gov/renewals/#tab-ce"
+  },
+  {
+   "id": "GA",
+   "kind": "stateLicense",
+   "state": "GA",
+   "degree": "both",
+   "name": "Georgia Composite Medical Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "40 hrs/2 yrs.",
+   "topics": [
+    {
+     "title": "Responsible opioid prescribing (Category 1)",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": "Controlled substance prescribers",
+     "oneTime": false,
+     "id": "GA-1"
+    },
+    {
+     "title": "Pain/palliative care",
+     "tag": "prescribing",
+     "hours": 20,
+     "condition": ">=50% opioid pain patients, no relevant certification",
+     "oneTime": false,
+     "id": "GA-2"
+    },
+    {
+     "title": "Sexual misconduct and professional boundaries",
+     "tag": "sexualMisconduct",
+     "hours": 2,
+     "condition": null,
+     "oneTime": true,
+     "id": "GA-3"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://medicalboard.georgia.gov",
+   "cmeURL": "https://rules.sos.state.ga.us/GAC/360-15-.01"
+  },
+  {
+   "id": "GU",
+   "kind": "stateLicense",
+   "state": "GU",
+   "degree": "both",
+   "name": "Guam Board of Medical Examiners",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 100,
+   "cycleMonths": 24,
+   "category1Hours": 25,
+   "summary": "100 hrs/2 yrs; 25% Category 1.",
+   "topics": [],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.guamhplo.org/gbme",
+   "cmeURL": "https://www.guamhplo.org/gbme"
+  },
+  {
+   "id": "MP",
+   "kind": "stateLicense",
+   "state": "MP",
+   "degree": "both",
+   "name": "CNMI Health Care Professions Licensing Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 50,
+   "summary": "50 hrs/2 yrs, all Category 1.",
+   "topics": [],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.cnmilicensing.gov.mp/health-care-professions-licensing-board/",
+   "cmeURL": "https://www.cnmilicensing.gov.mp/health-care-professions-licensing-board/"
+  },
+  {
+   "id": "HI",
+   "kind": "stateLicense",
+   "state": "HI",
+   "degree": "both",
+   "name": "Hawaii Medical Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "40 hrs/2 yrs, all Category 1 or 1A.",
+   "topics": [],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://cca.hawaii.gov/pvl/boards/medical/",
+   "cmeURL": "https://cca.hawaii.gov/pvl/boards/medical/"
+  },
+  {
+   "id": "ID",
+   "kind": "stateLicense",
+   "state": "ID",
+   "degree": "both",
+   "name": "Idaho Board of Medicine",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "40 hrs/2 yrs, all Category 1.",
+   "topics": [],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://bom.idaho.gov",
+   "cmeURL": "https://elitepublic.bom.idaho.gov/IBOMPortal/BoardAdditional.aspx?Board=BOM&BureauLinkID=130"
+  },
+  {
+   "id": "IL",
+   "kind": "stateLicense",
+   "state": "IL",
+   "degree": "both",
+   "name": "Illinois Department of Financial and Professional Regulation",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 150,
+   "cycleMonths": 36,
+   "category1Hours": 60,
+   "summary": "150 hrs/3 yrs; 60 Category 1.",
+   "topics": [
+    {
+     "title": "Sexual harassment prevention",
+     "tag": "sexualMisconduct",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "IL-1"
+    },
+    {
+     "title": "Implicit bias",
+     "tag": "implicitBias",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "IL-2"
+    },
+    {
+     "title": "Opioids (every 6 yrs)",
+     "tag": "prescribing",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "IL-3"
+    },
+    {
+     "title": "Cultural competency (every 6 yrs)",
+     "tag": "culturalCompetency",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "IL-4"
+    },
+    {
+     "title": "Dementia",
+     "tag": "dementia",
+     "hours": 1,
+     "condition": "Adult-serving physicians",
+     "oneTime": false,
+     "id": "IL-5"
+    },
+    {
+     "title": "Maternal health implicit bias",
+     "tag": "implicitBias",
+     "hours": 1,
+     "condition": "Maternal care providers",
+     "oneTime": false,
+     "id": "IL-6"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://idfpr.illinois.gov",
+   "cmeURL": "https://www.ilga.gov/commission/jcar/admincode/068/068012850A01100R.html"
+  },
+  {
+   "id": "IN",
+   "kind": "stateLicense",
+   "state": "IN",
+   "degree": "both",
+   "name": "Indiana Medical Licensing Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 0,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "No set CME requirement.",
+   "topics": [],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.in.gov/pla/professions/medical-licensing-board-of-indiana/",
+   "cmeURL": "https://www.in.gov/pla/professions/medical-licensing-board-of-indiana/"
+  },
+  {
+   "id": "IA",
+   "kind": "stateLicense",
+   "state": "IA",
+   "degree": "both",
+   "name": "Iowa Board of Medicine",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "40 hrs/2 yrs (up to 20 hrs carryover).",
+   "topics": [
+    {
+     "title": "Child abuse identification (every 3 yrs)",
+     "tag": "childAbuse",
+     "hours": 2,
+     "condition": "Primary care of children",
+     "oneTime": false,
+     "id": "IA-1"
+    },
+    {
+     "title": "Dependent adult abuse (every 3 yrs)",
+     "tag": "childAbuse",
+     "hours": 2,
+     "condition": "Primary care of adults",
+     "oneTime": false,
+     "id": "IA-2"
+    },
+    {
+     "title": "CDC opioid guidelines, Category 1 (every 5 yrs)",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": "Opioid prescribers",
+     "oneTime": false,
+     "id": "IA-3"
+    },
+    {
+     "title": "End-of-life care (every 5 yrs)",
+     "tag": "endOfLife",
+     "hours": 1,
+     "condition": "Regularly care for dying patients",
+     "oneTime": false,
+     "id": "IA-4"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://dial.iowa.gov/about/boards/medicine",
+   "cmeURL": "https://www.legis.iowa.gov/docs/ACO/chapter/653.11.pdf"
+  },
+  {
+   "id": "KS",
+   "kind": "stateLicense",
+   "state": "KS",
+   "degree": "both",
+   "name": "Kansas State Board of Healing Arts",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 12,
+   "category1Hours": 20,
+   "summary": "50 hrs/yr (20 Category 1), or 100 hrs/2 yrs (40 Cat 1), or 150 hrs/3 yrs (60 Cat 1).",
+   "topics": [
+    {
+     "title": "Pain management, opioid prescribing, or PDMP (1 hr per year of cycle)",
+     "tag": "prescribing",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "KS-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.ksbha.org",
+   "cmeURL": "https://www.ksbha.org/faq/faqlicensingmd.shtml"
+  },
+  {
+   "id": "KY",
+   "kind": "stateLicense",
+   "state": "KY",
+   "degree": "both",
+   "name": "Kentucky Board of Medical Licensure",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 60,
+   "cycleMonths": 36,
+   "category1Hours": 30,
+   "summary": "60 hrs/3 yrs; 30 Category 1.",
+   "topics": [
+    {
+     "title": "KASPER, pain management, or addiction disorders",
+     "tag": "prescribing",
+     "hours": 4.5,
+     "condition": "Controlled substance prescribers",
+     "oneTime": false,
+     "id": "KY-1"
+    },
+    {
+     "title": "Domestic violence",
+     "tag": "domesticViolence",
+     "hours": 0,
+     "condition": "Primary care physicians",
+     "oneTime": true,
+     "id": "KY-2"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://kbml.ky.gov",
+   "cmeURL": "https://kbml.ky.gov/cme/Pages/default.aspx"
+  },
+  {
+   "id": "LA",
+   "kind": "stateLicense",
+   "state": "LA",
+   "degree": "both",
+   "name": "Louisiana State Board of Medical Examiners",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 20,
+   "cycleMonths": 12,
+   "category1Hours": 20,
+   "summary": "20 hrs/yr, all Category 1.",
+   "topics": [
+    {
+     "title": "Drug diversion, controlled substance prescribing, addiction treatment",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": "CDS licensees",
+     "oneTime": true,
+     "id": "LA-1"
+    },
+    {
+     "title": "Nutrition and metabolic health (every 2 yrs)",
+     "tag": "nutrition",
+     "hours": 1,
+     "condition": "FM, IM, pediatrics, OB/GYN",
+     "oneTime": false,
+     "id": "LA-2"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.lsbme.la.gov",
+   "cmeURL": "https://www.lsbme.la.gov/licensure/rules"
+  },
+  {
+   "id": "ME-M",
+   "kind": "stateLicense",
+   "state": "ME",
+   "degree": "MD",
+   "name": "Maine Board of Licensure in Medicine",
+   "professions": [
+    "MD"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "40 hrs/2 yrs, all Category 1.",
+   "topics": [
+    {
+     "title": "Opioid prescribing",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": null,
+     "oneTime": false,
+     "id": "ME-M-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.maine.gov/md/",
+   "cmeURL": "https://www.maine.gov/sos/cec/rules/02/chaps02.htm#373"
+  },
+  {
+   "id": "ME-O",
+   "kind": "stateLicense",
+   "state": "ME",
+   "degree": "DO",
+   "name": "Maine Board of Osteopathic Licensure",
+   "professions": [
+    "DO"
+   ],
+   "totalHours": 100,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "100 hrs/2 yrs; 40 osteopathic medical education.",
+   "topics": [
+    {
+     "title": "Opioid prescribing",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": "Controlled substance prescribers",
+     "oneTime": false,
+     "id": "ME-O-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.maine.gov/osteo/",
+   "cmeURL": "https://www.maine.gov/sos/cec/rules/02/chaps02.htm#383"
+  },
+  {
+   "id": "MD",
+   "kind": "stateLicense",
+   "state": "MD",
+   "degree": "both",
+   "name": "Maryland Board of Physicians",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 25,
+   "summary": "50 hrs/2 yrs; 25 Category 1.",
+   "topics": [
+    {
+     "title": "Controlled substance prescribing/dispensing",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": "CDS registrants",
+     "oneTime": false,
+     "id": "MD-1"
+    },
+    {
+     "title": "Implicit bias training",
+     "tag": "implicitBias",
+     "hours": 0,
+     "condition": null,
+     "oneTime": true,
+     "id": "MD-2"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.mbp.state.md.us",
+   "cmeURL": "https://dsd.maryland.gov/regulations/Pages/10.32.01.10.aspx"
+  },
+  {
+   "id": "MA",
+   "kind": "stateLicense",
+   "state": "MA",
+   "degree": "both",
+   "name": "Massachusetts Board of Registration in Medicine",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "50 credits/2 yrs (Category 1 or 2).",
+   "topics": [
+    {
+     "title": "Risk management",
+     "tag": "riskManagement",
+     "hours": 10,
+     "condition": null,
+     "oneTime": false,
+     "id": "MA-1"
+    },
+    {
+     "title": "Opioid education and pain management",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": "Controlled substance prescribers",
+     "oneTime": false,
+     "id": "MA-2"
+    },
+    {
+     "title": "Electronic health records",
+     "tag": "riskManagement",
+     "hours": 3,
+     "condition": null,
+     "oneTime": false,
+     "id": "MA-3"
+    },
+    {
+     "title": "Board regulations",
+     "tag": "ethics",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "MA-4"
+    },
+    {
+     "title": "Implicit bias",
+     "tag": "implicitBias",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "MA-5"
+    },
+    {
+     "title": "End-of-life care",
+     "tag": "endOfLife",
+     "hours": 2,
+     "condition": null,
+     "oneTime": true,
+     "id": "MA-6"
+    },
+    {
+     "title": "Dementia",
+     "tag": "dementia",
+     "hours": 0,
+     "condition": "Adult-serving physicians",
+     "oneTime": true,
+     "id": "MA-7"
+    },
+    {
+     "title": "Child abuse and neglect",
+     "tag": "childAbuse",
+     "hours": 0,
+     "condition": null,
+     "oneTime": false,
+     "id": "MA-8"
+    },
+    {
+     "title": "Domestic and sexual violence",
+     "tag": "domesticViolence",
+     "hours": 0,
+     "condition": null,
+     "oneTime": false,
+     "id": "MA-9"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.mass.gov/orgs/board-of-registration-in-medicine",
+   "cmeURL": "https://www.mass.gov/lists/physician-regulations-policies-and-guidelines"
+  },
+  {
+   "id": "MI-M",
+   "kind": "stateLicense",
+   "state": "MI",
+   "degree": "MD",
+   "name": "Michigan Board of Medicine",
+   "professions": [
+    "MD"
+   ],
+   "totalHours": 150,
+   "cycleMonths": 36,
+   "category1Hours": 75,
+   "summary": "150 hrs/3 yrs; 75 Category 1.",
+   "topics": [
+    {
+     "title": "Medical ethics",
+     "tag": "ethics",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "MI-M-1"
+    },
+    {
+     "title": "Pain and symptom management",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": null,
+     "oneTime": false,
+     "id": "MI-M-2"
+    },
+    {
+     "title": "Implicit bias (1 hr per year)",
+     "tag": "implicitBias",
+     "hours": 3,
+     "condition": null,
+     "oneTime": false,
+     "id": "MI-M-3"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.michigan.gov/lara/bureau-list/bpl/health/hp-lic-health-prof/medical",
+   "cmeURL": "https://www.michigan.gov/documents/Lara/MD_Licensing_Guide_654158_7.pdf"
+  },
+  {
+   "id": "MI-O",
+   "kind": "stateLicense",
+   "state": "MI",
+   "degree": "DO",
+   "name": "Michigan Board of Osteopathic Medicine and Surgery",
+   "professions": [
+    "DO"
+   ],
+   "totalHours": 150,
+   "cycleMonths": 36,
+   "category1Hours": 60,
+   "summary": "150 hrs/3 yrs; 60 Category 1.",
+   "topics": [
+    {
+     "title": "Medical ethics",
+     "tag": "ethics",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "MI-O-1"
+    },
+    {
+     "title": "Pain and symptom management (incl. 1 hr controlled substances)",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": null,
+     "oneTime": false,
+     "id": "MI-O-2"
+    },
+    {
+     "title": "Implicit bias (1 hr per year)",
+     "tag": "implicitBias",
+     "hours": 3,
+     "condition": null,
+     "oneTime": false,
+     "id": "MI-O-3"
+    },
+    {
+     "title": "Human trafficking",
+     "tag": "humanTrafficking",
+     "hours": 0,
+     "condition": null,
+     "oneTime": true,
+     "id": "MI-O-4"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.michigan.gov/lara/bureau-list/bpl/health/hp-lic-health-prof/osteo",
+   "cmeURL": "https://www.michigan.gov/documents/Lara/DO_Licensing_Guide_654139_7.pdf"
+  },
+  {
+   "id": "MN",
+   "kind": "stateLicense",
+   "state": "MN",
+   "degree": "both",
+   "name": "Minnesota Board of Medical Practice",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 75,
+   "cycleMonths": 36,
+   "category1Hours": 75,
+   "summary": "75 hrs/3 yrs, all Category 1.",
+   "topics": [],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://mn.gov/boards/medical-practice/",
+   "cmeURL": "https://www.revisor.mn.gov/rules/?id=5605"
+  },
+  {
+   "id": "MS",
+   "kind": "stateLicense",
+   "state": "MS",
+   "degree": "both",
+   "name": "Mississippi State Board of Medical Licensure",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "40 hrs/2 yrs, all Category 1.",
+   "topics": [],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.msbml.ms.gov",
+   "cmeURL": "https://www.msbml.ms.gov/sites/default/files/Rules_Laws_Policies/07-2023Administrative%20Code.pdf"
+  },
+  {
+   "id": "MO",
+   "kind": "stateLicense",
+   "state": "MO",
+   "degree": "both",
+   "name": "Missouri State Board of Registration for the Healing Arts",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "50 hrs/2 yrs (AMA Category 1 or AOA 1A/2A), or 40 hrs Category 1 with posttest.",
+   "topics": [
+    {
+     "title": "Nutrition health benefits",
+     "tag": "nutrition",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "MO-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://pr.mo.gov/healingarts.asp",
+   "cmeURL": "https://s1.sos.mo.gov/cmsimages/adrules/csr/current/20csr/20c2150-2.pdf"
+  },
+  {
+   "id": "MT",
+   "kind": "stateLicense",
+   "state": "MT",
+   "degree": "both",
+   "name": "Montana Board of Medical Examiners",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 0,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "No set CME requirement.",
+   "topics": [],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "cmeURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf"
+  },
+  {
+   "id": "NE",
+   "kind": "stateLicense",
+   "state": "NE",
+   "degree": "both",
+   "name": "Nebraska Board of Medicine and Surgery",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 50,
+   "summary": "50 hrs/2 yrs, all Category 1 (up to 25 hrs carryover).",
+   "topics": [
+    {
+     "title": "Opioid prescribing (incl. 0.5 hr PDMP)",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": "Controlled substance prescribers",
+     "oneTime": false,
+     "id": "NE-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://dhhs.ne.gov/licensure/Pages/Medicine-and-Surgery.aspx",
+   "cmeURL": "https://dhhs.ne.gov/licensure/Pages/Medicine-and-Surgery.aspx"
+  },
+  {
+   "id": "NV-M",
+   "kind": "stateLicense",
+   "state": "NV",
+   "degree": "MD",
+   "name": "Nevada State Board of Medical Examiners",
+   "professions": [
+    "MD"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "40 hrs/2 yrs, all Category 1; 20 hrs in specialty scope.",
+   "topics": [
+    {
+     "title": "Ethics, pain management, or addiction care",
+     "tag": "ethics",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "NV-M-1"
+    },
+    {
+     "title": "Controlled substance misuse, opioids, addiction",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": "Prescribers",
+     "oneTime": false,
+     "id": "NV-M-2"
+    },
+    {
+     "title": "Suicide prevention (every 4 yrs)",
+     "tag": "suicidePrevention",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "NV-M-3"
+    },
+    {
+     "title": "SBIRT",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": null,
+     "oneTime": true,
+     "id": "NV-M-4"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://medboard.nv.gov",
+   "cmeURL": "https://medboard.nv.gov/uploadedFiles/mednvgov/content/Licensees/CME_Requirements_MDs_PAs.pdf"
+  },
+  {
+   "id": "NV-O",
+   "kind": "stateLicense",
+   "state": "NV",
+   "degree": "DO",
+   "name": "Nevada State Board of Osteopathic Medicine",
+   "professions": [
+    "DO"
+   ],
+   "totalHours": 35,
+   "cycleMonths": 12,
+   "category1Hours": 10,
+   "summary": "35 hrs/yr (rises to 40 in 2027); 10 hrs AOA or AMA Category 1A.",
+   "topics": [
+    {
+     "title": "Controlled substance misuse, opioids, addiction",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "NV-O-1"
+    },
+    {
+     "title": "Ethics, pain management, addiction care, or SBIRT",
+     "tag": "ethics",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "NV-O-2"
+    },
+    {
+     "title": "Suicide prevention (every 4 yrs)",
+     "tag": "suicidePrevention",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "NV-O-3"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://bom.nv.gov",
+   "cmeURL": "https://bom.nv.gov/Licensee/CME/"
+  },
+  {
+   "id": "NH",
+   "kind": "stateLicense",
+   "state": "NH",
+   "degree": "both",
+   "name": "New Hampshire Board of Medicine",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 100,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "100 hrs/2 yrs; 40 Category I; max 60 Category II.",
+   "topics": [
+    {
+     "title": "Pain management",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": null,
+     "oneTime": false,
+     "id": "NH-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.oplc.nh.gov/board-medicine",
+   "cmeURL": "https://www.gencourt.state.nh.us/rules/state_agencies/med100-600.html"
+  },
+  {
+   "id": "NJ",
+   "kind": "stateLicense",
+   "state": "NJ",
+   "degree": "both",
+   "name": "New Jersey State Board of Medical Examiners",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 100,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "100 hrs/2 yrs; 40 Category I; 60 Category II.",
+   "topics": [
+    {
+     "title": "Cultural competence",
+     "tag": "culturalCompetency",
+     "hours": 6,
+     "condition": null,
+     "oneTime": false,
+     "id": "NJ-1"
+    },
+    {
+     "title": "End-of-life care (Category 1)",
+     "tag": "endOfLife",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "NJ-2"
+    },
+    {
+     "title": "Prescription opioids (Category 1)",
+     "tag": "prescribing",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "NJ-3"
+    },
+    {
+     "title": "Sexual misconduct prevention (Category 1)",
+     "tag": "sexualMisconduct",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "NJ-4"
+    },
+    {
+     "title": "Explicit and implicit bias (Category 1)",
+     "tag": "implicitBias",
+     "hours": 1,
+     "condition": "Perinatal providers",
+     "oneTime": false,
+     "id": "NJ-5"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.njconsumeraffairs.gov/bme/",
+   "cmeURL": "https://www.njconsumeraffairs.gov/bme/Pages/continuingeducation.aspx"
+  },
+  {
+   "id": "NM",
+   "kind": "stateLicense",
+   "state": "NM",
+   "degree": "both",
+   "name": "New Mexico Medical Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 75,
+   "cycleMonths": 36,
+   "category1Hours": 75,
+   "summary": "75 hrs/3 yrs, all Category 1.",
+   "topics": [
+    {
+     "title": "Pain management (first year of licensure)",
+     "tag": "prescribing",
+     "hours": 5,
+     "condition": "DEA and NM CS registrants",
+     "oneTime": true,
+     "id": "NM-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.nmmb.state.nm.us",
+   "cmeURL": "https://www.nmmb.state.nm.us/wp-content/uploads/2024/05/nmac-16.10.04-2022-02-08-1.pdf"
+  },
+  {
+   "id": "NY",
+   "kind": "stateLicense",
+   "state": "NY",
+   "degree": "both",
+   "name": "New York State Education Department, Office of the Professions",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 0,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "No set hour requirement; mandated topics apply.",
+   "topics": [
+    {
+     "title": "Child abuse identification and reporting",
+     "tag": "childAbuse",
+     "hours": 2,
+     "condition": null,
+     "oneTime": true,
+     "id": "NY-1"
+    },
+    {
+     "title": "Infection control and barrier precautions (every 4 yrs)",
+     "tag": "infectionControl",
+     "hours": 0,
+     "condition": null,
+     "oneTime": false,
+     "id": "NY-2"
+    },
+    {
+     "title": "Pain management, palliative care, and addiction (every 3 yrs)",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": "DEA / controlled substance prescribers",
+     "oneTime": false,
+     "id": "NY-3"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.op.nysed.gov/professions/physicians",
+   "cmeURL": "https://www.op.nysed.gov/about/training-continuing-education"
+  },
+  {
+   "id": "NC",
+   "kind": "stateLicense",
+   "state": "NC",
+   "degree": "both",
+   "name": "North Carolina Medical Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 60,
+   "cycleMonths": 36,
+   "category1Hours": 60,
+   "summary": "60 hrs/3 yrs, all Category 1 relevant to specialty.",
+   "topics": [
+    {
+     "title": "Controlled substance prescribing practices (within the 60)",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": "Prescribers",
+     "oneTime": false,
+     "id": "NC-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.ncmedboard.org",
+   "cmeURL": "https://www.ncmedboard.org/licensure/renewals/physicians"
+  },
+  {
+   "id": "ND",
+   "kind": "stateLicense",
+   "state": "ND",
+   "degree": "both",
+   "name": "North Dakota Board of Medicine",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "40 hrs/2 yrs, all Category 1.",
+   "topics": [],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.ndbom.org",
+   "cmeURL": "https://www.ndbom.org/practitioners/cme.asp"
+  },
+  {
+   "id": "OH",
+   "kind": "stateLicense",
+   "state": "OH",
+   "degree": "both",
+   "name": "State Medical Board of Ohio",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 50,
+   "summary": "50 hrs/2 yrs, all Category 1.",
+   "topics": [
+    {
+     "title": "Duty to report",
+     "tag": "ethics",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "OH-1"
+    },
+    {
+     "title": "Pain medicine",
+     "tag": "prescribing",
+     "hours": 20,
+     "condition": "Pain clinic owners/operators",
+     "oneTime": false,
+     "id": "OH-2"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://med.ohio.gov",
+   "cmeURL": "https://codes.ohio.gov/ohio-administrative-code/4731"
+  },
+  {
+   "id": "OK-M",
+   "kind": "stateLicense",
+   "state": "OK",
+   "degree": "MD",
+   "name": "Oklahoma State Board of Medical Licensure and Supervision",
+   "professions": [
+    "MD"
+   ],
+   "totalHours": 60,
+   "cycleMonths": 36,
+   "category1Hours": 60,
+   "summary": "60 hrs/3 yrs, all Category 1.",
+   "topics": [
+    {
+     "title": "Pain management or opioid use/addiction (1 hr each year)",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": "DEA / controlled substance prescribers",
+     "oneTime": false,
+     "id": "OK-M-1"
+    },
+    {
+     "title": "Health care provider rights and responsibilities (every 2 yrs)",
+     "tag": "ethics",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "OK-M-2"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.okmedicalboard.org",
+   "cmeURL": "https://www.okmedicalboard.org/cme/CMEguidelines.pdf"
+  },
+  {
+   "id": "OK-O",
+   "kind": "stateLicense",
+   "state": "OK",
+   "degree": "DO",
+   "name": "Oklahoma State Board of Osteopathic Examiners",
+   "professions": [
+    "DO"
+   ],
+   "totalHours": 16,
+   "cycleMonths": 12,
+   "category1Hours": 16,
+   "summary": "16 hrs/yr, all AOA Category 1A/1B.",
+   "topics": [
+    {
+     "title": "Prescribing, dispensing, administering controlled substances",
+     "tag": "prescribing",
+     "hours": 1,
+     "condition": "CDS authority",
+     "oneTime": false,
+     "id": "OK-O-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.ok.gov/osboe/",
+   "cmeURL": "https://www.ok.gov/osboe/510:10-3.html"
+  },
+  {
+   "id": "OR",
+   "kind": "stateLicense",
+   "state": "OR",
+   "degree": "both",
+   "name": "Oregon Medical Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 60,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "60 hrs/2 yrs (30 if licensed in second year of biennium); AMA Category 1 or AOA 1A/2A.",
+   "topics": [
+    {
+     "title": "Pain management (every 24 months)",
+     "tag": "prescribing",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "OR-1"
+    },
+    {
+     "title": "Cultural competency (1 hr each year)",
+     "tag": "culturalCompetency",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "OR-2"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.oregon.gov/omb",
+   "cmeURL": "https://www.oregon.gov/omb/Topics-of-Interest/Pages/Continuing-Education.aspx"
+  },
+  {
+   "id": "PA-M",
+   "kind": "stateLicense",
+   "state": "PA",
+   "degree": "MD",
+   "name": "Pennsylvania State Board of Medicine",
+   "professions": [
+    "MD"
+   ],
+   "totalHours": 100,
+   "cycleMonths": 24,
+   "category1Hours": 20,
+   "summary": "100 hrs/2 yrs; 20 Category 1; 12 patient safety/risk management; remainder Category 1 or 2.",
+   "topics": [
+    {
+     "title": "Patient safety / risk management",
+     "tag": "riskManagement",
+     "hours": 12,
+     "condition": null,
+     "oneTime": false,
+     "id": "PA-M-1"
+    },
+    {
+     "title": "Child abuse recognition and reporting",
+     "tag": "childAbuse",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "PA-M-2"
+    },
+    {
+     "title": "Pain, addiction, or prescribing practices",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "PA-M-3"
+    },
+    {
+     "title": "Organ and tissue donation",
+     "tag": "publicHealth",
+     "hours": 2,
+     "condition": null,
+     "oneTime": true,
+     "id": "PA-M-4"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.pa.gov/agencies/dos/department-and-offices/bpoa/boards-commissions/medicine",
+   "cmeURL": "https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Medicine/Pages/CME-Requirements.aspx"
+  },
+  {
+   "id": "PA-O",
+   "kind": "stateLicense",
+   "state": "PA",
+   "degree": "DO",
+   "name": "Pennsylvania State Board of Osteopathic Medicine",
+   "professions": [
+    "DO"
+   ],
+   "totalHours": 100,
+   "cycleMonths": 24,
+   "category1Hours": 20,
+   "summary": "100 hrs/2 yrs; 20 Category 1-A; 12 patient safety/risk management; remainder Category 1 or 2.",
+   "topics": [
+    {
+     "title": "Patient safety / risk management",
+     "tag": "riskManagement",
+     "hours": 12,
+     "condition": null,
+     "oneTime": false,
+     "id": "PA-O-1"
+    },
+    {
+     "title": "Child abuse recognition and reporting",
+     "tag": "childAbuse",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "PA-O-2"
+    },
+    {
+     "title": "Pain, addiction, or prescribing practices",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "PA-O-3"
+    },
+    {
+     "title": "Organ and tissue donation",
+     "tag": "publicHealth",
+     "hours": 2,
+     "condition": null,
+     "oneTime": true,
+     "id": "PA-O-4"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.pa.gov/agencies/dos/department-and-offices/bpoa/boards-commissions/osteopathic-medicine",
+   "cmeURL": "https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/OsteopathicMedicine/Pages/Continuing-Education-Information.aspx"
+  },
+  {
+   "id": "PR",
+   "kind": "stateLicense",
+   "state": "PR",
+   "degree": "both",
+   "name": "Puerto Rico Medical Licensing and Discipline Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 60,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "summary": "60 hrs/3 yrs; 50% specialty-related.",
+   "topics": [
+    {
+     "title": "Dengue",
+     "tag": "publicHealth",
+     "hours": 3,
+     "condition": null,
+     "oneTime": false,
+     "id": "PR-1"
+    },
+    {
+     "title": "Bioethics",
+     "tag": "ethics",
+     "hours": 3,
+     "condition": null,
+     "oneTime": false,
+     "id": "PR-2"
+    },
+    {
+     "title": "Diabetes",
+     "tag": "publicHealth",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "PR-3"
+    },
+    {
+     "title": "Hypertension",
+     "tag": "publicHealth",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "PR-4"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "cmeURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf"
+  },
+  {
+   "id": "RI",
+   "kind": "stateLicense",
+   "state": "RI",
+   "degree": "both",
+   "name": "Rhode Island Board of Medical Licensure and Discipline",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "40 hrs/2 yrs, all AMA Category 1 or AOA Category 1A.",
+   "topics": [
+    {
+     "title": "Alzheimer's disease (once per career)",
+     "tag": "dementia",
+     "hours": 1,
+     "condition": null,
+     "oneTime": true,
+     "id": "RI-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://health.ri.gov/licenses/detail.php?id=200",
+   "cmeURL": "https://health.ri.gov/licenses/detail.php?id=200"
+  },
+  {
+   "id": "SC",
+   "kind": "stateLicense",
+   "state": "SC",
+   "degree": "both",
+   "name": "South Carolina Board of Medical Examiners",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "40 hrs/2 yrs, all Category 1; 30 hrs in practice area.",
+   "topics": [
+    {
+     "title": "Prescribing and monitoring Schedule II-IV",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "SC-1"
+    },
+    {
+     "title": "Human trafficking (every 6 yrs)",
+     "tag": "humanTrafficking",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "SC-2"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://llr.sc.gov/med/",
+   "cmeURL": "https://llr.sc.gov/med/"
+  },
+  {
+   "id": "SD",
+   "kind": "stateLicense",
+   "state": "SD",
+   "degree": "both",
+   "name": "South Dakota Board of Medical and Osteopathic Examiners",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 0,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "No set CME requirement.",
+   "topics": [],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.sdbmoe.gov",
+   "cmeURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf"
+  },
+  {
+   "id": "TN-M",
+   "kind": "stateLicense",
+   "state": "TN",
+   "degree": "MD",
+   "name": "Tennessee Board of Medical Examiners",
+   "professions": [
+    "MD"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "40 hrs/2 yrs, all Category 1.",
+   "topics": [
+    {
+     "title": "Controlled substance prescribing (incl. TN guidelines)",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "TN-M-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.tn.gov/health/health-program-areas/health-professional-boards/me-board.html",
+   "cmeURL": "https://www.tn.gov/health/health-program-areas/health-professional-boards/me-board/me-board/continuing-education.html"
+  },
+  {
+   "id": "TN-O",
+   "kind": "stateLicense",
+   "state": "TN",
+   "degree": "DO",
+   "name": "Tennessee Board of Osteopathic Examination",
+   "professions": [
+    "DO"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 40,
+   "summary": "40 hrs/2 yrs, all AOA Category 1A/2A.",
+   "topics": [
+    {
+     "title": "Designated prescribing practices course",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "TN-O-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.tn.gov/health/licensure/ost.html",
+   "cmeURL": "https://www.tn.gov/health/health-program-areas/health-professional-boards/osteo-board/osteo-board/continuing-education.html"
+  },
+  {
+   "id": "TX",
+   "kind": "stateLicense",
+   "state": "TX",
+   "degree": "both",
+   "name": "Texas Medical Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 48,
+   "cycleMonths": 24,
+   "category1Hours": 24,
+   "summary": "48 hrs/2 yrs; 24 AMA Category 1 or AOA Category 1A.",
+   "topics": [
+    {
+     "title": "Medical ethics / professional responsibility (incl. human trafficking course)",
+     "tag": "ethics",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "TX-1"
+    },
+    {
+     "title": "Safe opioid / controlled substance pain management (first two renewals, then every 8 yrs)",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "TX-2"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.tmb.state.tx.us",
+   "cmeURL": "https://www.tmb.state.tx.us/page/resources-cme-for-md-dos"
+  },
+  {
+   "id": "UT",
+   "kind": "stateLicense",
+   "state": "UT",
+   "degree": "both",
+   "name": "Utah Division of Professional Licensing",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 40,
+   "cycleMonths": 24,
+   "category1Hours": 34,
+   "summary": "40 hrs/2 yrs; 34 Category 1.",
+   "topics": [
+    {
+     "title": "Controlled substance prescribing",
+     "tag": "prescribing",
+     "hours": 3.5,
+     "condition": "Controlled substance prescribers",
+     "oneTime": false,
+     "id": "UT-1"
+    },
+    {
+     "title": "Online suicide prevention course (DOPL list)",
+     "tag": "suicidePrevention",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "UT-2"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://dopl.utah.gov/physician/",
+   "cmeURL": "https://dopl.utah.gov/md/index.html"
+  },
+  {
+   "id": "VT-M",
+   "kind": "stateLicense",
+   "state": "VT",
+   "degree": "MD",
+   "name": "Vermont Board of Medical Practice",
+   "professions": [
+    "MD"
+   ],
+   "totalHours": 30,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "30 hrs/2 yrs.",
+   "topics": [
+    {
+     "title": "Hospice, palliative care, or pain management",
+     "tag": "endOfLife",
+     "hours": 1,
+     "condition": null,
+     "oneTime": false,
+     "id": "VT-M-1"
+    },
+    {
+     "title": "Safe controlled substance prescribing and pain management",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": "DEA / controlled substance prescribers",
+     "oneTime": false,
+     "id": "VT-M-2"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.healthvermont.gov/systems/medical-practice-board",
+   "cmeURL": "https://www.healthvermont.gov/sites/default/files/documents/pdf/BMP-BoardRulesEffective07012022.pdf"
+  },
+  {
+   "id": "VT-O",
+   "kind": "stateLicense",
+   "state": "VT",
+   "degree": "DO",
+   "name": "Vermont Board of Osteopathic Physicians",
+   "professions": [
+    "DO"
+   ],
+   "totalHours": 30,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "summary": "30 hrs/2 yrs.",
+   "topics": [],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://sos.vermont.gov/osteopathic-physicians/",
+   "cmeURL": "https://sos.vermont.gov/media/1malbewh/3-osteo-rules-final-filed-clean.pdf"
+  },
+  {
+   "id": "VI",
+   "kind": "stateLicense",
+   "state": "VI",
+   "degree": "both",
+   "name": "Virgin Islands Board of Medical Examiners",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 50,
+   "summary": "50 hrs/2 yrs, all AMA Category 1.",
+   "topics": [],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "cmeURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf"
+  },
+  {
+   "id": "VA",
+   "kind": "stateLicense",
+   "state": "VA",
+   "degree": "both",
+   "name": "Virginia Board of Medicine",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 60,
+   "cycleMonths": 24,
+   "category1Hours": 30,
+   "summary": "60 hrs/2 yrs: at least 30 Type 1 (Category 1); up to 30 Type 2 (self-directed). All 60 may be Type 1.",
+   "topics": [
+    {
+     "title": "Pain management, controlled substance prescribing and addiction (Type 1)",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": "Prescribers, when the board requires it",
+     "oneTime": false,
+     "id": "VA-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.dhp.virginia.gov/Boards/Medicine/",
+   "cmeURL": "https://www.dhp.virginia.gov/Boards/Medicine/PractitionerResources/ContinuingEducation/Medicine/"
+  },
+  {
+   "id": "WA-M",
+   "kind": "stateLicense",
+   "state": "WA",
+   "degree": "MD",
+   "name": "Washington Medical Commission",
+   "professions": [
+    "MD"
+   ],
+   "totalHours": 200,
+   "cycleMonths": 48,
+   "category1Hours": 0,
+   "summary": "200 hrs/4 yrs; max 80 each in Categories 2-5.",
+   "topics": [
+    {
+     "title": "Health equity",
+     "tag": "culturalCompetency",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "WA-M-1"
+    },
+    {
+     "title": "Suicide assessment, treatment, and management",
+     "tag": "suicidePrevention",
+     "hours": 6,
+     "condition": null,
+     "oneTime": true,
+     "id": "WA-M-2"
+    },
+    {
+     "title": "Opioid prescribing best practices",
+     "tag": "prescribing",
+     "hours": 1,
+     "condition": "Opioid prescribers",
+     "oneTime": true,
+     "id": "WA-M-3"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://wmc.wa.gov",
+   "cmeURL": "https://wmc.wa.gov/education/continuing-medical-education-cme-requirements"
+  },
+  {
+   "id": "WA-O",
+   "kind": "stateLicense",
+   "state": "WA",
+   "degree": "DO",
+   "name": "Washington Board of Osteopathic Medicine and Surgery",
+   "professions": [
+    "DO"
+   ],
+   "totalHours": 150,
+   "cycleMonths": 36,
+   "category1Hours": 60,
+   "summary": "150 hrs/3 yrs; 60 Category 1.",
+   "topics": [
+    {
+     "title": "Health equity",
+     "tag": "culturalCompetency",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "WA-O-1"
+    },
+    {
+     "title": "Suicide assessment course",
+     "tag": "suicidePrevention",
+     "hours": 6,
+     "condition": null,
+     "oneTime": true,
+     "id": "WA-O-2"
+    },
+    {
+     "title": "Opioid prescribing best practices",
+     "tag": "prescribing",
+     "hours": 1,
+     "condition": "Opioid prescribers",
+     "oneTime": true,
+     "id": "WA-O-3"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://doh.wa.gov/licenses-permits-and-certificates/professions-new-renew-or-update/osteopathic-physician-and-surgeon/licensing-information",
+   "cmeURL": "https://doh.wa.gov/licenses-permits-and-certificates/professions-new-renew-or-update/osteopathic-physician-and-surgeon/licensing-information"
+  },
+  {
+   "id": "WV-M",
+   "kind": "stateLicense",
+   "state": "WV",
+   "degree": "MD",
+   "name": "West Virginia Board of Medicine",
+   "professions": [
+    "MD"
+   ],
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 50,
+   "summary": "50 hrs/2 yrs, all Category 1; 30 in specialty.",
+   "topics": [
+    {
+     "title": "Risk assessment, responsible prescribing, and drug diversion",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": null,
+     "oneTime": false,
+     "id": "WV-M-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://wvbom.wv.gov",
+   "cmeURL": "https://wvbom.wv.gov/Cont_Med_Education.asp"
+  },
+  {
+   "id": "WV-O",
+   "kind": "stateLicense",
+   "state": "WV",
+   "degree": "DO",
+   "name": "West Virginia Board of Osteopathic Medicine",
+   "professions": [
+    "DO"
+   ],
+   "totalHours": 32,
+   "cycleMonths": 24,
+   "category1Hours": 16,
+   "summary": "32 hrs/2 yrs; 16 AOA Category 1A/1B.",
+   "topics": [
+    {
+     "title": "Drug diversion and best-practice prescribing",
+     "tag": "prescribing",
+     "hours": 3,
+     "condition": null,
+     "oneTime": false,
+     "id": "WV-O-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://www.wvbdosteo.org",
+   "cmeURL": "https://www.wvbdosteo.org/licensing/do/cme.asp"
+  },
+  {
+   "id": "WI",
+   "kind": "stateLicense",
+   "state": "WI",
+   "degree": "both",
+   "name": "Wisconsin Medical Examining Board",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 30,
+   "cycleMonths": 24,
+   "category1Hours": 30,
+   "summary": "30 hrs/2 yrs, all Category 1.",
+   "topics": [
+    {
+     "title": "Prescribing opioids and other controlled substances",
+     "tag": "prescribing",
+     "hours": 2,
+     "condition": null,
+     "oneTime": false,
+     "id": "WI-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://dsps.wi.gov",
+   "cmeURL": "https://docs.legis.wisconsin.gov/code/admin_code/med/13.pdf"
+  },
+  {
+   "id": "WY",
+   "kind": "stateLicense",
+   "state": "WY",
+   "degree": "both",
+   "name": "Wyoming Board of Medicine",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "totalHours": 60,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "summary": "60 hrs/3 yrs; Category 1 or 2.",
+   "topics": [
+    {
+     "title": "Responsible prescribing or SUD treatment (every 2 yrs)",
+     "tag": "prescribing",
+     "hours": 1,
+     "condition": "Controlled substance registrants",
+     "oneTime": false,
+     "id": "WY-1"
+    }
+   ],
+   "checklist": [],
+   "sourceURL": "https://fsmb.org/siteassets/advocacy/key-issues/continuing-medical-education-by-state.pdf",
+   "boardURL": "https://wyomedboard.wyo.gov",
+   "cmeURL": "https://wyomedboard.wyo.gov/physicians/renew-license"
+  },
+  {
+   "id": "NBCRNA",
+   "kind": "boardCertification",
+   "professions": [
+    "CRNA"
+   ],
+   "name": "NBCRNA (CRNA)",
+   "summary": "Four-year certification cycle (CPC, now called MAC): 100 credits, at least 60 Class A / MAC Ed (assessed CE, including four Core Modules) and the rest Class A or Class B / MAC Dev; check-in at year two; CPC Assessment once every eight years.",
+   "totalHours": 100,
+   "cycleMonths": 48,
+   "category1Hours": 60,
+   "checklist": [
+    "Core Module: Airway Management",
+    "Core Module: Applied Clinical Pharmacology",
+    "Core Module: Human Physiology and Pathophysiology",
+    "Core Module: Anesthesia Equipment and Technology",
+    "Two-year check-in",
+    "CPC Assessment (second 4-year cycle)",
+    "Active RN/APRN license and practice"
+   ],
+   "sourceURL": "https://www.nbcrna.com/continued-certification",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "boardURL": "https://www.nbcrna.com/continued-certification",
+   "cmeURL": "https://www.nbcrna.com/continued-certification"
+  },
+  {
+   "id": "NCCPA",
+   "kind": "boardCertification",
+   "professions": [
+    "PA"
+   ],
+   "name": "NCCPA (PA-C)",
+   "summary": "Ten-year certification maintenance in five two-year cycles: 100 CME credits each cycle (at least 50 Category 1) and a maintenance fee by Dec 31 of the expiration year; pass PANRE or PANRE-LA by the end of year 10.",
+   "totalHours": 100,
+   "cycleMonths": 24,
+   "category1Hours": 50,
+   "checklist": [
+    "Certification maintenance fee paid",
+    "PANRE or PANRE-LA (by end of year 10)"
+   ],
+   "sourceURL": "https://www.nccpa.net/maintain-certification/continuing-medical-education/",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "boardURL": "https://www.nccpa.net/maintain-certification/continuing-medical-education/",
+   "cmeURL": "https://www.nccpa.net/maintain-certification/continuing-medical-education/"
+  },
+  {
+   "id": "AANPCB",
+   "kind": "boardCertification",
+   "professions": [
+    "NP"
+   ],
+   "name": "AANPCB (NP-C)",
+   "summary": "Renews every 5 years: 100 contact hours of advanced CE, at least 25 in advanced practice pharmacology, plus 1,000 clinical practice hours in the NP role, or retake the exam.",
+   "totalHours": 100,
+   "cycleMonths": 60,
+   "category1Hours": 0,
+   "checklist": [
+    "1,000 clinical practice hours (or pass the exam)",
+    "Active RN license",
+    "Recertification fee"
+   ],
+   "sourceURL": "https://www.aanpcert.org/recert",
+   "topics": [
+    {
+     "title": "Advanced practice pharmacology",
+     "tag": "pharmacology",
+     "hours": 25,
+     "condition": null,
+     "oneTime": false,
+     "id": "AANPCB-1"
+    }
+   ],
+   "degree": "both",
+   "state": null,
+   "boardURL": "https://www.aanpcert.org/recert",
+   "cmeURL": "https://www.aanpcert.org/recert"
+  },
+  {
+   "id": "ANCC",
+   "kind": "boardCertification",
+   "professions": [
+    "NP"
+   ],
+   "name": "ANCC (FNP-BC and other NP specialties)",
+   "summary": "Renews every 5 years: 75 contact hours of CE, 25 in pharmacotherapeutics, plus at least one additional professional development category (academic credit, presentations, publication, precepting, service, or practice hours).",
+   "totalHours": 75,
+   "cycleMonths": 60,
+   "category1Hours": 0,
+   "checklist": [
+    "One additional professional development category",
+    "Active RN license",
+    "Renewal fee"
+   ],
+   "sourceURL": "https://www.nursingworld.org/our-certifications/",
+   "topics": [
+    {
+     "title": "Pharmacotherapeutics",
+     "tag": "pharmacology",
+     "hours": 25,
+     "condition": null,
+     "oneTime": false,
+     "id": "ANCC-1"
+    }
+   ],
+   "degree": "both",
+   "state": null,
+   "boardURL": "https://www.nursingworld.org/our-certifications/",
+   "cmeURL": "https://www.nursingworld.org/our-certifications/"
+  },
+  {
+   "id": "ABFM",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Family Medicine",
+   "summary": "Certification 2025 five-year cycle: 200 CME credits over the first 4 years, 60 certification points from self-assessment and performance improvement, longitudinal assessment (25 questions per quarter), annual fee.",
+   "totalHours": 200,
+   "cycleMonths": 60,
+   "category1Hours": 0,
+   "checklist": [
+    "At least 1 self-assessment activity (KSA or 4 CKSA quarters)",
+    "At least 1 performance improvement (PI) activity",
+    "60 certification points",
+    "Longitudinal assessment (FMCLA) or one-day exam",
+    "Annual certification fee"
+   ],
+   "sourceURL": "https://www.theabfm.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "boardURL": "https://www.theabfm.org",
+   "cmeURL": "https://www.theabfm.org"
+  },
+  {
+   "id": "AOBFP",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Family Physicians",
+   "summary": "Osteopathic Continuous Certification: 120 CME credits per 3-year AOA cycle, 30 of them AOA Category 1-A and 60 flexible (AOA 1A, 1B, 2A, 2B or AAFP); longitudinal assessment; practice performance activity.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 30,
+   "checklist": [
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/family-physicians/wp-content/uploads/sites/25/AOBFP-OCC-Requirements-Table.pdf",
+   "boardURL": "https://certification.osteopathic.org/family-physicians/",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "cmeURL": "https://certification.osteopathic.org/family-physicians/wp-content/uploads/sites/25/AOBFP-OCC-Requirements-Table.pdf"
+  },
+  {
+   "id": "CAQH",
+   "kind": "caqh",
+   "name": "CAQH ProView",
+   "summary": "Re-attest your CAQH ProView profile every 120 days so health plans can credential you; keep license, DEA, board certification and malpractice documents current in the profile.",
+   "totalHours": 0,
+   "cycleMonths": 4,
+   "category1Hours": 0,
+   "checklist": [
+    "Re-attest the profile",
+    "Upload current license, DEA and board certificate",
+    "Upload current malpractice certificate of insurance",
+    "Review practice locations and hospital affiliations",
+    "Authorize the health plans that need access"
+   ],
+   "sourceURL": "https://proview.caqh.org",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "professions": [
+    "MD",
+    "DO",
+    "NP",
+    "PA",
+    "CRNA"
+   ],
+   "boardURL": "https://proview.caqh.org",
+   "cmeURL": "https://proview.caqh.org"
+  },
+  {
+   "id": "IMLC",
+   "kind": "imlc",
+   "name": "Interstate Medical Licensure Compact (IMLC)",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "summary": "A Letter of Qualification from your state of principal license is valid for 365 days; request licenses in other member states during that window. Each compact license is a full state license that renews on that state's schedule and CME rules.",
+   "totalHours": 0,
+   "cycleMonths": 12,
+   "category1Hours": 0,
+   "checklist": [
+    "Letter of Qualification issued",
+    "Request member-state licenses before it expires",
+    "Add each compact license as a state license"
+   ],
+   "sourceURL": "https://imlcc.com",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "boardURL": "https://imlcc.com",
+   "cmeURL": "https://imlcc.com"
+  },
+  {
+   "id": "CCQAS",
+   "kind": "privileges",
+   "name": "Military clinical privileges (CCQAS)",
+   "summary": "Military treatment facility privileges are reappointed at least every 2 years through CCQAS (Centralized Credentials Quality Assurance System). Keep license, DEA, board certification, life support and CME current in CCQAS before the reappointment packet is due.",
+   "totalHours": 0,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "checklist": [
+    "Update CCQAS: licenses, DEA, board certification, BLS/ACLS",
+    "Upload CME summary",
+    "Complete the reappointment application",
+    "Peer review and performance data (OPPE/FPPE) reviewed",
+    "Credentials committee and privileging authority approval"
+   ],
+   "sourceURL": "https://www.health.mil",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "professions": [
+    "MD",
+    "DO",
+    "NP",
+    "PA",
+    "CRNA"
+   ],
+   "boardURL": "https://www.health.mil",
+   "cmeURL": "https://www.health.mil"
+  },
+  {
+   "id": "ICTB",
+   "kind": "privileges",
+   "name": "Inter-facility Credentials Transfer Brief (ICTB)",
+   "summary": "Lets a gaining military facility grant privileges based on your home facility's credentials for TDY, deployment or other temporary duty. Request it from your credentials office before you travel; it can't outlast your current privileges.",
+   "totalHours": 0,
+   "cycleMonths": 12,
+   "category1Hours": 0,
+   "checklist": [
+    "Requested from home facility credentials office",
+    "Sent to gaining facility",
+    "Privileges granted at gaining facility"
+   ],
+   "sourceURL": "https://www.health.mil",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "professions": [
+    "MD",
+    "DO",
+    "NP",
+    "PA",
+    "CRNA"
+   ],
+   "boardURL": "https://www.health.mil",
+   "cmeURL": "https://www.health.mil"
+  },
+  {
+   "id": "PRIVILEGES",
+   "kind": "privileges",
+   "name": "Hospital privileges (civilian)",
+   "summary": "Medical staff reappointment is usually every 2 years (Joint Commission standard). Most facilities ask for current license, DEA, board certification, malpractice certificate and CME.",
+   "totalHours": 0,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "checklist": [
+    "Reappointment application submitted",
+    "Current license, DEA and board certificate provided",
+    "Malpractice certificate of insurance provided",
+    "Peer references / OPPE reviewed"
+   ],
+   "sourceURL": "https://www.jointcommission.org",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "professions": [
+    "MD",
+    "DO",
+    "NP",
+    "PA",
+    "CRNA"
+   ],
+   "boardURL": "https://www.jointcommission.org",
+   "cmeURL": "https://www.jointcommission.org"
+  },
+  {
+   "id": "MALPRACTICE",
+   "kind": "malpractice",
+   "name": "Malpractice coverage",
+   "summary": "Policies usually renew yearly. Request a certificate of insurance (COI) at each renewal and send it to CAQH and every credentialing office; confirm tail coverage when changing employers.",
+   "totalHours": 0,
+   "cycleMonths": 12,
+   "category1Hours": 0,
+   "checklist": [
+    "Request certificate of insurance (COI)",
+    "Upload COI to CAQH",
+    "Send COI to each credentialing office",
+    "Confirm tail coverage if changing employers"
+   ],
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "professions": [
+    "MD",
+    "DO",
+    "NP",
+    "PA",
+    "CRNA"
+   ],
+   "boardURL": null,
+   "cmeURL": null
+  },
+  {
+   "id": "FCVS",
+   "kind": "other",
+   "name": "FSMB Federation Credentials Verification Service (FCVS)",
+   "summary": "A permanent, primary-source-verified portfolio of your education, training, exams and board actions that most state boards accept with a new license application. There's no renewal; update the profile and send it to a board when you apply for another state license.",
+   "totalHours": 0,
+   "cycleMonths": 12,
+   "category1Hours": 0,
+   "checklist": [
+    "Profile updated with new training and licenses",
+    "Portfolio sent to each new licensing board"
+   ],
+   "sourceURL": "https://www.fsmb.org/fcvs/",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "professions": [
+    "MD",
+    "DO",
+    "NP",
+    "PA",
+    "CRNA"
+   ],
+   "boardURL": "https://www.fsmb.org/fcvs/",
+   "cmeURL": "https://www.fsmb.org/fcvs/"
+  },
+  {
+   "id": "NPDB",
+   "kind": "other",
+   "name": "NPDB self-query",
+   "summary": "Hospitals and health plans query the National Practitioner Data Bank when credentialing you. No interval is required; a yearly self-query lets you see and correct what they see before a reappointment or new application.",
+   "totalHours": 0,
+   "cycleMonths": 12,
+   "category1Hours": 0,
+   "checklist": [
+    "Self-query ordered",
+    "Report reviewed for errors",
+    "Dispute filed if anything is wrong"
+   ],
+   "sourceURL": "https://www.npdb.hrsa.gov/ext/selfquery/SQHome.jsp",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "professions": [
+    "MD",
+    "DO",
+    "NP",
+    "PA",
+    "CRNA"
+   ],
+   "boardURL": "https://www.npdb.hrsa.gov/ext/selfquery/SQHome.jsp",
+   "cmeURL": "https://www.npdb.hrsa.gov/ext/selfquery/SQHome.jsp"
+  },
+  {
+   "id": "BLS",
+   "kind": "lifeSupport",
+   "name": "AHA Basic Life Support",
+   "summary": "Card valid 2 years.",
+   "totalHours": 0,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "checklist": [],
+   "sourceURL": "https://cpr.heart.org",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "professions": [
+    "MD",
+    "DO",
+    "NP",
+    "PA",
+    "CRNA"
+   ],
+   "boardURL": "https://cpr.heart.org",
+   "cmeURL": "https://cpr.heart.org"
+  },
+  {
+   "id": "ACLS",
+   "kind": "lifeSupport",
+   "name": "AHA Advanced Cardiovascular Life Support",
+   "summary": "Card valid 2 years.",
+   "totalHours": 0,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "checklist": [],
+   "sourceURL": "https://cpr.heart.org",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "professions": [
+    "MD",
+    "DO",
+    "NP",
+    "PA",
+    "CRNA"
+   ],
+   "boardURL": "https://cpr.heart.org",
+   "cmeURL": "https://cpr.heart.org"
+  },
+  {
+   "id": "PALS",
+   "kind": "lifeSupport",
+   "name": "AHA Pediatric Advanced Life Support",
+   "summary": "Card valid 2 years.",
+   "totalHours": 0,
+   "cycleMonths": 24,
+   "category1Hours": 0,
+   "checklist": [],
+   "sourceURL": "https://cpr.heart.org",
+   "topics": [],
+   "degree": "both",
+   "state": null,
+   "professions": [
+    "MD",
+    "DO",
+    "NP",
+    "PA",
+    "CRNA"
+   ],
+   "boardURL": "https://cpr.heart.org",
+   "cmeURL": "https://cpr.heart.org"
+  },
+  {
+   "id": "DEA",
+   "kind": "dea",
+   "name": "DEA Registration",
+   "summary": "Renews every 3 years. One-time 8-hour substance use disorder training (MATE Act) attested at registration or renewal.",
+   "totalHours": 0,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "MATE Act 8-hour training attested"
+   ],
+   "sourceURL": "https://www.deadiversion.usdoj.gov",
+   "topics": [
+    {
+     "title": "MATE Act substance use disorder training",
+     "tag": "prescribing",
+     "hours": 8,
+     "condition": null,
+     "oneTime": true,
+     "id": "DEA-1"
+    }
+   ],
+   "degree": "both",
+   "state": null,
+   "professions": [
+    "MD",
+    "DO",
+    "NP",
+    "PA",
+    "CRNA"
+   ],
+   "boardURL": "https://www.deadiversion.usdoj.gov",
+   "cmeURL": "https://www.deadiversion.usdoj.gov"
+  },
+  {
+   "id": "ABAI",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Allergy and Immunology",
+   "summary": "25 CME credits a year; Continuous Assessment Program (questions and recent-advances articles) twice a year; patient safety module every 10 years.",
+   "totalHours": 25,
+   "cycleMonths": 12,
+   "category1Hours": 25,
+   "checklist": [
+    "Continuous Assessment Program (twice a year)",
+    "Patient safety module (every 10 years)",
+    "Practice improvement activity"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abai.org",
+   "cmeURL": "https://www.abai.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABA",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Anesthesiology",
+   "summary": "MOCA: 250 Category 1 credits per 10 years (max 60 counted per calendar year), including 20 ABA-approved patient safety credits; MOCA Minute quarterly.",
+   "totalHours": 250,
+   "cycleMonths": 120,
+   "category1Hours": 250,
+   "checklist": [
+    "MOCA Minute (quarterly)",
+    "Quality improvement activity",
+    "Annual fee"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.theaba.org",
+   "cmeURL": "https://www.theaba.org",
+   "family": "ABMS",
+   "topics": [
+    {
+     "title": "Patient safety",
+     "tag": "medicalErrors",
+     "hours": 20,
+     "condition": null,
+     "oneTime": false,
+     "id": "ABA-1"
+    }
+   ],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABCRS",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Colon and Rectal Surgery",
+   "summary": "80 credits per 5-year cycle: 40 Category 1 and 40 self-assessment (passing the quarterly CertLink assessment).",
+   "totalHours": 80,
+   "cycleMonths": 60,
+   "category1Hours": 40,
+   "checklist": [
+    "CertLink longitudinal assessment (quarterly)",
+    "Outcomes registry or quality program",
+    "Hospital privileges and chief of staff evaluation"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abcrs.org",
+   "cmeURL": "https://www.abcrs.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABD",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Dermatology",
+   "summary": "From Jan 1, 2026, passing CertLink longitudinal assessment satisfies the CME and self-assessment requirements; practice improvement activity.",
+   "totalHours": 0,
+   "cycleMonths": 60,
+   "category1Hours": 0,
+   "checklist": [
+    "CertLink longitudinal assessment (quarterly)",
+    "Practice improvement activity",
+    "Annual fee"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abderm.org",
+   "cmeURL": "https://www.abderm.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABEM",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Emergency Medicine",
+   "summary": "No CME reporting after transition to MyEMCert: 4 MyEMCert modules every 5 years plus a quality improvement activity.",
+   "totalHours": 0,
+   "cycleMonths": 60,
+   "category1Hours": 0,
+   "checklist": [
+    "MyEMCert modules (4 per 5 years)",
+    "Quality improvement activity",
+    "Annual fee"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abem.org",
+   "cmeURL": "https://www.abem.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABIM",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Internal Medicine",
+   "summary": "100 MOC points every 5 years (points, from accredited CME that counts for MOC); Longitudinal Knowledge Assessment quarterly or the traditional exam.",
+   "totalHours": 100,
+   "cycleMonths": 60,
+   "category1Hours": 0,
+   "checklist": [
+    "Longitudinal Knowledge Assessment or exam",
+    "Earn MOC points every 2 years",
+    "Annual fee"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abim.org",
+   "cmeURL": "https://www.abim.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABMGG",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Medical Genetics and Genomics",
+   "summary": "60 Category 1 credits per 3 years, at least 30 genetics-related; one patient safety activity per cycle; longitudinal assessment twice a year.",
+   "totalHours": 60,
+   "cycleMonths": 36,
+   "category1Hours": 60,
+   "checklist": [
+    "Longitudinal assessment (twice a year)",
+    "Improvement in medical practice module"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abmgg.org",
+   "cmeURL": "https://www.abmgg.org",
+   "family": "ABMS",
+   "topics": [
+    {
+     "title": "Patient safety",
+     "tag": "medicalErrors",
+     "hours": 0,
+     "condition": null,
+     "oneTime": false,
+     "id": "ABMGG-1"
+    }
+   ],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABNS",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Neurological Surgery",
+   "summary": "20 CME credits every year in neurosurgery-related activities; annual adaptive learning tool; yearly license, hospital credentials and morbidity and mortality conference attestation.",
+   "totalHours": 20,
+   "cycleMonths": 12,
+   "category1Hours": 20,
+   "checklist": [
+    "Annual assessment",
+    "Chief of staff questionnaire",
+    "Hospital privileges"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abns.org",
+   "cmeURL": "https://www.abns.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABNM",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Nuclear Medicine",
+   "summary": "25 Category 1 credits a year (averaged over 2 years); longitudinal assessment quarterly.",
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 50,
+   "checklist": [
+    "Longitudinal assessment (quarterly)",
+    "Yearly engagement and performance assessments"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abnm.org",
+   "cmeURL": "https://www.abnm.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABOG",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Obstetrics and Gynecology",
+   "summary": "Yearly: article-based self-assessment (integrated assessment, about 30 articles a year in 3 windows) and an Improvement in Medical Practice activity.",
+   "totalHours": 0,
+   "cycleMonths": 12,
+   "category1Hours": 0,
+   "checklist": [
+    "Article assessments (3 windows a year)",
+    "Improvement in Medical Practice activity",
+    "Hospital privileges",
+    "Annual fee"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abog.org",
+   "cmeURL": "https://www.abog.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABOP",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Ophthalmology",
+   "summary": "Average 50 Category 1 credits every 2 years (10-year cycle), including 16 self-assessment credits; patient safety activity once per 10 years; quarterly longitudinal assessment.",
+   "totalHours": 50,
+   "cycleMonths": 24,
+   "category1Hours": 50,
+   "checklist": [
+    "Quarterly Questions longitudinal assessment",
+    "16 self-assessment credits",
+    "Practice improvement activity"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://abop.org",
+   "cmeURL": "https://abop.org",
+   "family": "ABMS",
+   "topics": [
+    {
+     "title": "Patient safety",
+     "tag": "medicalErrors",
+     "hours": 0,
+     "condition": null,
+     "oneTime": false,
+     "id": "ABOP-1"
+    }
+   ],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABOS",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Orthopaedic Surgery",
+   "summary": "120 Category 1 credits per 5-year period (diplomates expiring 2031 or later; 240 per 10 years before that), 20 of them self-assessment; yearly knowledge assessment.",
+   "totalHours": 120,
+   "cycleMonths": 60,
+   "category1Hours": 120,
+   "checklist": [
+    "ABOS Knowledge Assessment (yearly)",
+    "20 self-assessment credits",
+    "Case list and peer review",
+    "Hospital privileges"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abos.org",
+   "cmeURL": "https://www.abos.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABOHNS",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Otolaryngology - Head and Neck Surgery",
+   "summary": "25 Category 1 credits a year plus one ABOHNS self-assessment module a year (80% to pass); quarterly CertLink assessment.",
+   "totalHours": 25,
+   "cycleMonths": 12,
+   "category1Hours": 25,
+   "checklist": [
+    "Self-assessment module (yearly)",
+    "CertLink longitudinal assessment (quarterly)",
+    "Practice improvement activity"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.aboto.org",
+   "cmeURL": "https://www.aboto.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABPath",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Pathology",
+   "summary": "70 Category 1 or AOA 1-A credits every 2 years (or a fellowship/research pathway); two practice improvement activities every 2 years; quarterly CertLink.",
+   "totalHours": 70,
+   "cycleMonths": 24,
+   "category1Hours": 70,
+   "checklist": [
+    "CertLink longitudinal assessment (quarterly)",
+    "Two practice assessment/QI activities",
+    "Professional peer review"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abpath.org",
+   "cmeURL": "https://www.abpath.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABP",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Pediatrics",
+   "summary": "MOC points rather than CME hours: 50 Part 2 (self-assessment) points per 5-year cycle plus quality improvement points; quarterly MOCA-Peds.",
+   "totalHours": 0,
+   "cycleMonths": 60,
+   "category1Hours": 0,
+   "checklist": [
+    "50 Part 2 points",
+    "Quality improvement (Part 4) points",
+    "MOCA-Peds (quarterly)",
+    "Annual fee"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abp.org",
+   "cmeURL": "https://www.abp.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABPMR",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Physical Medicine and Rehabilitation",
+   "summary": "Average 30 credits a year (at least half PM&R-related) including an average of 10 self-assessment credits a year; quarterly longitudinal assessment.",
+   "totalHours": 150,
+   "cycleMonths": 60,
+   "category1Hours": 0,
+   "checklist": [
+    "Longitudinal assessment (quarterly)",
+    "Self-assessment credits (average 10 a year)",
+    "Practice improvement activity"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abpmr.org",
+   "cmeURL": "https://www.abpmr.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABPS",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Plastic Surgery",
+   "summary": "125 Category 1 plastic surgery credits every 5 years, including 25 patient safety credits (reported in years 6 and 9 of the 10-year cycle); yearly self-assessment.",
+   "totalHours": 125,
+   "cycleMonths": 60,
+   "category1Hours": 125,
+   "checklist": [
+    "Yearly knowledge assessment",
+    "Practice assessment module",
+    "Hospital privileges and peer review"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abplasticsurgery.org",
+   "cmeURL": "https://www.abplasticsurgery.org",
+   "family": "ABMS",
+   "topics": [
+    {
+     "title": "Patient safety",
+     "tag": "medicalErrors",
+     "hours": 25,
+     "condition": null,
+     "oneTime": false,
+     "id": "ABPS-1"
+    }
+   ],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABPM",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Preventive Medicine",
+   "summary": "Covers aerospace, occupational, public health and general preventive medicine: 20 Category 1 credits a year, 6 relevant to your certification (ABMS); longitudinal assessment twice a year.",
+   "totalHours": 20,
+   "cycleMonths": 12,
+   "category1Hours": 20,
+   "checklist": [
+    "Longitudinal assessment (twice a year)",
+    "Practice improvement activity"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.theabpm.org",
+   "cmeURL": "https://www.theabpm.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABPN",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Psychiatry and Neurology",
+   "summary": "90 specialty Category 1 credits per 3 years, 16 of them self-assessment; Article-Based Continuing Certification; patient safety activity once.",
+   "totalHours": 90,
+   "cycleMonths": 36,
+   "category1Hours": 90,
+   "checklist": [
+    "Article-Based Continuing Certification",
+    "16 self-assessment credits",
+    "Improvement in Medical Practice activity"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abpn.org",
+   "cmeURL": "https://www.abpn.org",
+   "family": "ABMS",
+   "topics": [
+    {
+     "title": "Patient safety",
+     "tag": "medicalErrors",
+     "hours": 0,
+     "condition": null,
+     "oneTime": true,
+     "id": "ABPN-1"
+    }
+   ],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABR",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Radiology",
+   "summary": "75 Category 1 credits per rolling 3 years (25 self-assessment); Online Longitudinal Assessment; practice quality improvement activity.",
+   "totalHours": 75,
+   "cycleMonths": 36,
+   "category1Hours": 75,
+   "checklist": [
+    "Online Longitudinal Assessment",
+    "Practice quality improvement project or activity",
+    "Annual fee"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.theabr.org",
+   "cmeURL": "https://www.theabr.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABS",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Surgery",
+   "summary": "150 Category 1 credits every 5 years (125 if no self-assessment after the first Continuous Certification Assessment); assessment every 2 years.",
+   "totalHours": 150,
+   "cycleMonths": 60,
+   "category1Hours": 150,
+   "checklist": [
+    "Continuous Certification Assessment (every 2 years)",
+    "Surgical quality improvement",
+    "Hospital privileges"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.absurgery.org",
+   "cmeURL": "https://www.absurgery.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABTS",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Thoracic Surgery",
+   "summary": "150 credits over 5 years (average 30 a year), 75 in cardiothoracic surgery; exam every 10 years.",
+   "totalHours": 150,
+   "cycleMonths": 60,
+   "category1Hours": 0,
+   "checklist": [
+    "75 cardiothoracic surgery credits",
+    "Exam (every 10 years)",
+    "Practice assessment/QI activity",
+    "Hospital privileges"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abts.org",
+   "cmeURL": "https://www.abts.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "ABU",
+   "kind": "boardCertification",
+   "professions": [
+    "MD",
+    "DO"
+   ],
+   "name": "American Board of Urology",
+   "summary": "90 urology-relevant credits every 3 years (30 Category 1), plus patient safety module and videos; yearly knowledge assessment.",
+   "totalHours": 90,
+   "cycleMonths": 36,
+   "category1Hours": 30,
+   "checklist": [
+    "Knowledge assessment (yearly)",
+    "Patient safety module and videos",
+    "Case log review",
+    "Peer review"
+   ],
+   "sourceURL": "https://abms.org/cme-activities-for-continuing-certification/lifelong-learning-and-self-assessment-requirements/",
+   "boardURL": "https://www.abu.org",
+   "cmeURL": "https://www.abu.org",
+   "family": "ABMS",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBA",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Anesthesiology",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org",
+   "cmeURL": "https://certification.osteopathic.org",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOCD",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic College of Dermatology (certifying board)",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org",
+   "cmeURL": "https://certification.osteopathic.org",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBEM",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Emergency Medicine",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org",
+   "cmeURL": "https://certification.osteopathic.org",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBIM",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Internal Medicine",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org",
+   "cmeURL": "https://certification.osteopathic.org",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBNP",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Neurology and Psychiatry",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org",
+   "cmeURL": "https://certification.osteopathic.org",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBNMM",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Neuromusculoskeletal Medicine",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org",
+   "cmeURL": "https://certification.osteopathic.org",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBOG",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Obstetrics and Gynecology",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org",
+   "cmeURL": "https://certification.osteopathic.org",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBOO",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Ophthalmology and Otolaryngology - Head and Neck Surgery",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org",
+   "cmeURL": "https://certification.osteopathic.org",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBOS",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Orthopedic Surgery",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org",
+   "cmeURL": "https://certification.osteopathic.org",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBPa",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Pathology",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org/pathology/",
+   "cmeURL": "https://certification.osteopathic.org/pathology/",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBP",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Pediatrics",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org/pediatrics/",
+   "cmeURL": "https://certification.osteopathic.org/pediatrics/",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBPMR",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Physical Medicine and Rehabilitation",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org",
+   "cmeURL": "https://certification.osteopathic.org",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBPM",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Preventive Medicine",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org",
+   "cmeURL": "https://certification.osteopathic.org",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBR",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Radiology",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org",
+   "cmeURL": "https://certification.osteopathic.org",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  },
+  {
+   "id": "AOBS",
+   "kind": "boardCertification",
+   "professions": [
+    "DO"
+   ],
+   "name": "American Osteopathic Board of Surgery",
+   "summary": "Osteopathic Continuous Certification (2025-27 AOA cycle): 120 CME credits per 3 years, at least 25% (30 credits) specialty-specific; active license; longitudinal assessment and practice performance.",
+   "totalHours": 120,
+   "cycleMonths": 36,
+   "category1Hours": 0,
+   "checklist": [
+    "30 specialty-specific CME credits",
+    "Longitudinal assessment",
+    "Practice performance improvement (Component 4)",
+    "AOA Code of Ethics"
+   ],
+   "sourceURL": "https://certification.osteopathic.org/pathology/occ-overview/",
+   "boardURL": "https://certification.osteopathic.org",
+   "cmeURL": "https://certification.osteopathic.org",
+   "family": "AOA",
+   "topics": [],
+   "degree": "both",
+   "state": null
+  }
+ ]
+}
